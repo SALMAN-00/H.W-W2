@@ -1,0 +1,31 @@
+@import url(https://fonts.googleapis.com/css?family=Quicksand:300,regular,500,600,700);
+.image1{
+    width: 800px;
+    height: 750px;
+    background-image: url("https://stone-horn-a78.notion.site/image/https%3A%2F%2Fcdn.discordapp.com%2Fattachments%2F1161920241576726588%2F1163798379411812363%2Fsoup.jpg%3Fex%3D6540e2b3%26is%3D652e6db3%26hm%3D418edbde8a5f8794c853a400d19081c6443fd467bbab566268926860c2e28df2%26?table=block&id=7ae1c28e-accd-4c21-8c68-9393c7dbb2f1&spaceId=989539c7-7a6d-4611-9778-eb2623dec992&width=2000&userId=&cache=v2");
+    background-size:cover;
+    background-repeat: no-repeat;
+
+
+}
+.image2{
+    background-image: url(https://stone-horn-a78.notion.site/image/https%3A%2F%2Fcdn.discordapp.com%2Fattachments%2F1161920241576726588%2F1163798327075295243%2Fsuopimg.png%3Fex%3D6540e2a7%26is%3D652e6da7%26hm%3D68f70d57db238c0c073589344a6acc830658e2397cd72e32bdec2fdcf1b4e978%26?table=block&id=dcf2e7ba-0ee5-4120-8897-c68524efb069&spaceId=989539c7-7a6d-4611-9778-eb2623dec992&width=2000&userId=&cache=v2);
+width: 150px;
+height: 150px;
+
+background-repeat: no-repeat;
+
+}
+#title{
+    
+}
+
+#th1{
+    background-color: rgb(245, 206, 148);
+    
+}
+
+#th2{ 
+    background-color: rgb(245, 206, 148);
+
+}
